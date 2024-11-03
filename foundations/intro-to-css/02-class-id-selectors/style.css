@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: #f29c8f;
     font-family: Verdana, Geneva, Tahoma, sans-serif
     }
@@ -6,7 +6,7 @@ p {
     color: #0000ff;
     font-size: 36px;
 }
-#number-three {
+.adjust-font-size {
     font-size: 24px;
 }
 #number-four {
